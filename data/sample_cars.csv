@@ -1,0 +1,31 @@
+id,name,year,capacity,power,power_hp,fuel_type,turbo
+1,Audi A4 2.0 TDI,2018,1968,110,147,diesel,true
+2,BMW 320d,2017,1995,140,188,diesel,true
+3,Mercedes-Benz C220d,2019,1950,143,192,diesel,true
+4,Ford Focus 1.0 EcoBoost,2016,998,92,123,petrol,true
+5,Toyota Corolla 1.8,2018,1798,103,138,petrol,false
+6,Volkswagen Golf GTD,2020,1968,147,197,diesel,true
+7,Mazda CX-5 2.2 Skyactiv-D,2020,2191,110,147,diesel,true
+8,Subaru Impreza 2.0i,2019,1995,115,154,petrol,false
+9,Honda Civic 1.5 VTEC Turbo,2020,1498,134,180,petrol,true
+10,Volvo V90 D4,2018,1969,140,188,diesel,true
+11,Alfa Romeo Giulia 2.0,2017,1995,147,197,petrol,true
+12,Jeep Grand Cherokee 3.0 CRD,2016,2987,184,247,diesel,true
+13,Lexus IS 300h,2018,2494,133,178,petrol,false
+14,Audi Q5 2.0 TDI,2020,1968,120,161,diesel,true
+15,Skoda Octavia 1.6 TDI,2019,1598,85,114,diesel,true
+16,Kia Sportage 2.0 CRDi,2018,1995,136,182,diesel,true
+17,Hyundai Tucson 1.6 T-GDi,2017,1591,130,174,petrol,true
+18,Ford Mondeo 2.0 TDCi,2016,1997,110,147,diesel,true
+19,Peugeot 308 1.2 PureTech,2018,1199,96,129,petrol,true
+20,Chevrolet Cruze 1.4 Turbo,2015,1364,103,138,petrol,true
+21,Honda Accord 2.4 i-VTEC,2008,2354,147,197,petrol,false
+22,Toyota Camry 2.5,2012,2494,133,178,petrol,false
+23,BMW 328i,2012,1997,180,241,petrol,true
+24,Ford Fusion 2.5,2010,2488,129,173,petrol,false
+25,Nissan Altima 3.5 V6,2013,3498,201,270,petrol,false
+26,Mazda6 2.5,2014,2488,138,185,petrol,false
+27,Mercedes-Benz E350,2010,3498,200,268,petrol,false
+28,Audi A6 3.0 TDI,2011,2967,180,241,diesel,true
+29,Subaru Legacy 2.5i,2009,2457,127,170,petrol,false
+30,Volkswagen Passat 2.0 TSI,2008,1984,147,197,petrol,true
